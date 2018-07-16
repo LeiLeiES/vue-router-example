@@ -1,5 +1,5 @@
 > ## vue-router 实例应用
-
+![avatar](/src/assets/router.png)
 
 ## 项目安装与开发
 
