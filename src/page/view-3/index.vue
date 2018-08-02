@@ -12,7 +12,7 @@
 
             嵌套路由的配置,如下:配置嵌套路由在父路由器中添加 children 属性子路由的元素 => 
             在父路由页面添加 “&lt;router-view&gt;&lt;/router-view&gt;” 标签,
-            当路由配置到/view-2/home时 ， view-4/index.vue 页面会渲染在该标签中!
+            当路由配置到/view-3/home时 ， view-4/index.vue 页面会渲染在该标签中!
                 <code>
                     {
                         path:'/view-3',
